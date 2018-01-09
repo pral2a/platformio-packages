@@ -1,0 +1,10 @@
+{
+	"framework-arduinosam-sck": [
+		{
+			"sha1": "d7e0fc9fae97c2e03ff5ff20f9eec2075df86135",
+			"system": "*",
+			"url": "https://github.com/pral2a/platformio-packages/blob/master/packages/framework-arduinosam-2.10616.2.tar.gz?raw=true",
+			"version": "2.10616.2"
+		}
+	]
+}
